@@ -16,17 +16,23 @@
 <text x="198.0" y="156.0" text-anchor="middle" font-family="Yu Gothic, Meiryo, sans-serif" font-size="11" fill="#2f6f4e">守る側</text>
 <line x1="520" y1="70" x2="180" y2="230" stroke="#a33b3b" stroke-width="2.4"/>
 <text x="342.3" y="133.3" text-anchor="middle" font-family="Yu Gothic, Meiryo, sans-serif" font-size="11" fill="#a33b3b">破門を決意</text>
-<rect x="466" y="52" width="108" height="36" rx="3" fill="#ece7dc" stroke="#222"/>
-<text x="520" y="74" text-anchor="middle" font-family="Yu Gothic, Meiryo, sans-serif" font-size="13" fill="#1c1c1c">堂島宗兵</text>
-<rect x="126" y="72" width="108" height="36" rx="3" fill="#ece7dc" stroke="#222"/>
-<text x="180" y="94" text-anchor="middle" font-family="Yu Gothic, Meiryo, sans-serif" font-size="13" fill="#1c1c1c">風間新太郎</text>
-<rect x="26" y="132" width="108" height="36" rx="3" fill="#ece7dc" stroke="#222"/>
-<text x="80" y="154" text-anchor="middle" font-family="Yu Gothic, Meiryo, sans-serif" font-size="13" fill="#1c1c1c">栗原大地</text>
-<rect x="366" y="192" width="108" height="36" rx="3" fill="#ece7dc" stroke="#222"/>
-<text x="420" y="214" text-anchor="middle" font-family="Yu Gothic, Meiryo, sans-serif" font-size="13" fill="#1c1c1c">久瀬大作</text>
-<rect x="126" y="212" width="108" height="36" rx="3" fill="#ece7dc" stroke="#222"/>
-<text x="180" y="234" text-anchor="middle" font-family="Yu Gothic, Meiryo, sans-serif" font-size="13" fill="#1c1c1c">桐生一馬</text>
-<rect x="126" y="352" width="108" height="36" rx="3" fill="#ece7dc" stroke="#222"/>
-<text x="180" y="374" text-anchor="middle" font-family="Yu Gothic, Meiryo, sans-serif" font-size="13" fill="#1c1c1c">錦山彰</text>
+<rect x="466" y="48" width="108" height="44" rx="3" fill="#ece7dc" stroke="#222"/>
+<text x="520" y="64" text-anchor="middle" font-family="Yu Gothic, Meiryo, sans-serif" font-size="8" fill="#666">どうじま そうへい</text>
+<text x="520" y="82" text-anchor="middle" font-family="Yu Gothic, Meiryo, sans-serif" font-size="13" fill="#1c1c1c">堂島宗兵</text>
+<rect x="126" y="68" width="108" height="44" rx="3" fill="#ece7dc" stroke="#222"/>
+<text x="180" y="84" text-anchor="middle" font-family="Yu Gothic, Meiryo, sans-serif" font-size="8" fill="#666">かざま しんたろう</text>
+<text x="180" y="102" text-anchor="middle" font-family="Yu Gothic, Meiryo, sans-serif" font-size="13" fill="#1c1c1c">風間新太郎</text>
+<rect x="26" y="128" width="108" height="44" rx="3" fill="#ece7dc" stroke="#222"/>
+<text x="80" y="144" text-anchor="middle" font-family="Yu Gothic, Meiryo, sans-serif" font-size="8" fill="#666">くりはら だいち</text>
+<text x="80" y="162" text-anchor="middle" font-family="Yu Gothic, Meiryo, sans-serif" font-size="13" fill="#1c1c1c">栗原大地</text>
+<rect x="366" y="188" width="108" height="44" rx="3" fill="#ece7dc" stroke="#222"/>
+<text x="420" y="204" text-anchor="middle" font-family="Yu Gothic, Meiryo, sans-serif" font-size="8" fill="#666">くぜ だいさく</text>
+<text x="420" y="222" text-anchor="middle" font-family="Yu Gothic, Meiryo, sans-serif" font-size="13" fill="#1c1c1c">久瀬大作</text>
+<rect x="126" y="208" width="108" height="44" rx="3" fill="#ece7dc" stroke="#222"/>
+<text x="180" y="224" text-anchor="middle" font-family="Yu Gothic, Meiryo, sans-serif" font-size="8" fill="#666">きりゅう かずま</text>
+<text x="180" y="242" text-anchor="middle" font-family="Yu Gothic, Meiryo, sans-serif" font-size="13" fill="#1c1c1c">桐生一馬</text>
+<rect x="126" y="348" width="108" height="44" rx="3" fill="#ece7dc" stroke="#222"/>
+<text x="180" y="364" text-anchor="middle" font-family="Yu Gothic, Meiryo, sans-serif" font-size="8" fill="#666">にしきやま あきら</text>
+<text x="180" y="382" text-anchor="middle" font-family="Yu Gothic, Meiryo, sans-serif" font-size="13" fill="#1c1c1c">錦山彰</text>
 <text x="800" y="600" font-family="Yu Gothic, Meiryo, sans-serif" font-size="11" fill="#777">緑 plus　赤 minus　破線 mixed/death</text>
 </svg>

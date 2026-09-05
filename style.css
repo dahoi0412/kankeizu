@@ -51,3 +51,5 @@ ol.beats .meta { font-size: 12px; color: var(--muted); }
   border: 0; cursor: pointer;
 }
 #app.hidden { display: none; }
+ruby { ruby-position: over; }
+ruby rt { font-size: 0.55em; font-weight: 400; color: var(--muted); }
