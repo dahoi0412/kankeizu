@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1040 620" width="1040" height="620">
+<rect width="1040" height="620" fill="#f4f1ea"/>
+<text x="24" y="24" font-family="Yu Gothic, Meiryo, sans-serif" font-size="15" fill="#1c1c1c">0 関係図</text>
+<text x="24" y="42" font-family="Yu Gothic, Meiryo, sans-serif" font-size="12" fill="#555">0-e001  待ち合わせで再会し、飲みに誘う</text>
+<text x="180" y="18" text-anchor="middle" font-family="Yu Gothic, Meiryo, sans-serif" font-size="11" fill="#888">風間／桐生</text>
+<line x1="180" y1="230" x2="180" y2="370" stroke="#2f6f4e" stroke-width="1.8"/>
+<text x="198.0" y="296.0" text-anchor="middle" font-family="Yu Gothic, Meiryo, sans-serif" font-size="11" fill="#2f6f4e">信頼</text>
+<rect x="126" y="212" width="108" height="36" rx="3" fill="#ece7dc" stroke="#222"/>
+<text x="180" y="234" text-anchor="middle" font-family="Yu Gothic, Meiryo, sans-serif" font-size="13" fill="#1c1c1c">桐生一馬</text>
+<rect x="126" y="352" width="108" height="36" rx="3" fill="#ece7dc" stroke="#222"/>
+<text x="180" y="374" text-anchor="middle" font-family="Yu Gothic, Meiryo, sans-serif" font-size="13" fill="#1c1c1c">錦山彰</text>
+<text x="800" y="600" font-family="Yu Gothic, Meiryo, sans-serif" font-size="11" fill="#777">緑 plus　赤 minus　破線 mixed/death</text>
+</svg>

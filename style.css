@@ -1,0 +1,53 @@
+
+:root {
+  --bg: #ece8df;
+  --ink: #222;
+  --muted: #555;
+  --line: #d4cfc3;
+  --paper: #f4f1ea;
+  --btn: #222;
+  --btn-ink: #ece8df;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: "Yu Gothic", Meiryo, sans-serif;
+  line-height: 1.65;
+}
+a { color: inherit; }
+header, main, footer { width: min(42rem, calc(100% - 32px)); margin: 0 auto; }
+header { padding: 20px 0 8px; }
+main { padding-bottom: 48px; }
+footer { padding: 0 0 32px; font-size: 12px; color: var(--muted); }
+nav { display: flex; flex-wrap: wrap; gap: 12px 16px; font-size: 13px; margin: 8px 0 0; }
+nav a { text-decoration: underline; text-underline-offset: 3px; }
+h1 { font-size: 22px; font-weight: 600; margin: 0 0 8px; }
+h2 { font-size: 17px; font-weight: 600; margin: 28px 0 10px; }
+p { margin: 0 0 12px; }
+.lead { color: var(--muted); font-size: 14px; }
+.card {
+  display: block;
+  background: var(--paper);
+  border: 1px solid var(--line);
+  padding: 14px 16px;
+  margin: 0 0 12px;
+  text-decoration: none;
+}
+.card strong { display: block; margin-bottom: 4px; }
+.card span { font-size: 13px; color: var(--muted); }
+ol.beats { padding-left: 1.2rem; }
+ol.beats li { margin: 0 0 14px; }
+ol.beats .meta { font-size: 12px; color: var(--muted); }
+#gate {
+  position: fixed; inset: 0; background: var(--bg); z-index: 2;
+  display: flex; align-items: center; justify-content: center; padding: 24px;
+}
+#gate .box { max-width: 28rem; }
+#gate h2 { margin-top: 0; }
+#gate button {
+  font: inherit; padding: 8px 14px; background: var(--btn); color: var(--btn-ink);
+  border: 0; cursor: pointer;
+}
+#app.hidden { display: none; }
