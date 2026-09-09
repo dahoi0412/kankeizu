@@ -55,3 +55,8 @@ ruby { ruby-position: over; }
 ruby rt { font-size: 0.55em; font-weight: 400; color: var(--muted); }
 .cards { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
 @media (max-width: 560px) { .cards { grid-template-columns: 1fr; } }
+.years { display: flex; flex-wrap: wrap; gap: 8px 12px; font-size: 13px; margin: 0 0 24px; }
+.nenpyo { border-left: 2px solid var(--line); padding-left: 16px; }
+.nenpyo .year { margin: 0 0 32px; }
+.nenpyo .year h2 { margin: 0 0 4px; }
+.nenpyo .year .place { font-size: 13px; color: var(--muted); margin: 0 0 12px; }
